@@ -24,4 +24,4 @@ It contains clear, ground-truth images primarily from UAVs, along with some from
 
 ## Example
 
-![gif not found](example.gif)
+![gif not found](examples.gif)
